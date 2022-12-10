@@ -12,3 +12,6 @@ The types of movements are classified into six categories including:
 4: standing
 
 5: laying
+
+
+Let's use Pytorch that demonstrates the usages of RNN, CNN, and LSTM models to process sequential and ime series data.
