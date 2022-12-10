@@ -1,3 +1,7 @@
+
+# Human Activity Recognition Using Pytorch
+
+
 Implement Human Activity Recognition in PyTorch using RNN, CNN, and CNN-LSTM Models on UCI Human Activity Recognition (HAR) Dataset using Pytorch.
 The types of movements are classified into six categories including:
 
